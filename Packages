@@ -1,0 +1,14 @@
+Package: com.aaronash.barrel
+Name: Barrel 
+Version: 1.7.4.0-1
+Size: 415632
+Architecture: iphoneos-arm
+Description: 3D Roll For App
+Maintainer: Abdulla <mmabdulla2000@gmail.com>
+Author: Abdulla <mmabdulla2000@gmail.com>
+Section: Barrel
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: ./debs/barrel.deb
+
